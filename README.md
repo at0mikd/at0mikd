@@ -12,7 +12,7 @@
 
 ## 🛡️ About Me
 
-I am a **security researcher and SOC analyst in transition** from Corrientes, Argentina, with a foundation in **full stack development and DevOps** (Python, Docker, Kubernetes, Jenkins).
+I am a **security researcher and SOC analyst in transition** from Argentina, with a foundation in **full stack development and DevOps** (Go, Docker, Kubernetes, Jenkins).
 
 My path into security is deliberately hands-on: instead of relying on academic credentials, I build verifiable evidence — validated bug bounty findings, a fully documented home SOC lab, and industry certifications. I hold the **ISC2 Certified in Cybersecurity (CC)** and completed the **Cybersecurity Architect** career track (287 accredited hours, EducaciónIT & Manhattan University) with specializations in **SOC Operations** and **Cloud DevOps**.
 
