@@ -1,7 +1,6 @@
 # Tomás da Silveira
 
-**Security Researcher & SOC Analyst | Detection Engineering, SIEM, Bug Bounty Hunter**
-**Full Stack & DevOps background | Building a home SOC lab in public**
+**Security Researcher & SOC Analyst | Detection Engineering, SIEM, Bug Bounty Hunter** | **Full Stack & DevOps background | Building a home SOC lab in public**
 
 📍 Buenos Aires, Argentina
 👤 [LinkedIn](https://linkedin.com/in/tomasda7)
