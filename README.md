@@ -67,7 +67,7 @@ Core technology areas:
 **Bugcrowd (Freelance)**
 *Mar. 2025 – Present · Remote*
   
-![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white)
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white&link=https://bugcrowd.com/h/at0mik)
 
 - Investigate web application vulnerabilities within the scope of Bugcrowd programs, separating genuine security signals from noise.
 - Reported a validated **IDOR / Broken Access Control** finding under coordinated disclosure, rated against Bugcrowd's VRT and documented in a technical writeup.
