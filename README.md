@@ -77,7 +77,7 @@ Core technology areas:
 
 **Web Development & Automation Agency (Freelance)**
 *2024 – Present · Remote*
-  ![demos](https://demosdigital.net/)
+  ![demos](https://img.shields.io/badge/demos-digital-orange?style=flat&link=https://demosdigital.net/)
 
 - Web development and process automation for local small businesses.
 - CI/CD pipelines and containerized workloads with Docker, Kubernetes, and Jenkins; automation in Python.
