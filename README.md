@@ -40,7 +40,6 @@ Core technology areas:
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?logo=microsoftazure&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white)
-![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white)
 
 **Automation & DevOps**
 
@@ -65,7 +64,7 @@ Core technology areas:
 ## 🏢 Experience
 
 ### Security Researcher — Bug Bounty Hunter
-
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white)
 **Bugcrowd (Freelance)**
 *Mar. 2025 – Present · Remote*
 
@@ -168,7 +167,8 @@ I am open to:
 - SOC Analyst / Security Analyst opportunities
 - Bug bounty collaboration
 - Open-source security tooling
-- Detection engineering and home lab exchanges
+- Detection engineering
+- Bug Bounty Private Programs
 
 Feel free to reach out through [LinkedIn](https://linkedin.com/in/tomasda7) or [email](mailto:tomasda7@outlook.com).
 
