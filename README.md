@@ -64,9 +64,9 @@ Core technology areas:
 ## 🏢 Experience
 
 ### Security Researcher — Bug Bounty Hunter
-![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white)
 **Bugcrowd (Freelance)**
 *Mar. 2025 – Present · Remote*
+  ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?logo=bugcrowd&logoColor=white)
 
 - Investigate web application vulnerabilities within the scope of Bugcrowd programs, separating genuine security signals from noise.
 - Reported a validated **IDOR / Broken Access Control** finding under coordinated disclosure, rated against Bugcrowd's VRT and documented in a technical writeup.
@@ -74,8 +74,10 @@ Core technology areas:
 
 ### Full Stack Developer / DevOps — Founder
 
+
 **Web Development & Automation Agency (Freelance)**
 *2024 – Present · Remote*
+  ![demos](https://demosdigital.net/)
 
 - Web development and process automation for local small businesses.
 - CI/CD pipelines and containerized workloads with Docker, Kubernetes, and Jenkins; automation in Python.
