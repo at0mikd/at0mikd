@@ -2,7 +2,7 @@
 
 **Security Researcher & SOC Analyst | Detection Engineering, SIEM, Bug Bounty Hunter** | **Full Stack & DevOps background | Building a home SOC lab in public**
 
-📍 Buenos Aires, Argentina
+📍 Argentina
 👤 [LinkedIn](https://linkedin.com/in/tomasda7)
 🐛 [Bugcrowd](https://bugcrowd.com/h/at0mik)
 ✉️ tomasda7@outlook.com
@@ -172,7 +172,7 @@ I am open to:
 - Bug bounty collaboration
 - Open-source security tooling
 - Detection engineering
-- Bug Bounty Private Programs
+- Invitation to Bug Bounty Private Programs
 
 Feel free to reach out through [LinkedIn](https://linkedin.com/in/tomasda7) or [email](mailto:tomasda7@outlook.com).
 
