@@ -63,7 +63,7 @@ Core technology areas:
 
 ## 🏢 Experience
 
-### Security Researcher — Bug Bounty Hunter
+### Security Researcher - Bug Bounty Hunter
 **Bugcrowd (Freelance)**
 *Mar. 2025 – Present · Remote*
   
@@ -73,13 +73,13 @@ Core technology areas:
 - Reported a validated **IDOR / Broken Access Control** finding under coordinated disclosure, rated against Bugcrowd's VRT and documented in a technical writeup.
 - Manage the full coordinated disclosure lifecycle and communicate risk clearly to program owners.
 
-### Full Stack Developer / DevOps — Founder
+### Full Stack Developer / DevOps - Founder
 
 
 **Web Development & Automation Agency (Freelance)**
 *2024 – Present · Remote*
   
-*![demos](https://img.shields.io/badge/demos-digital-orange?style=flat&link=https://demosdigital.net/)*
+[demos](https://demosdigital.net/)
 
 - Web development and process automation for local small businesses.
 - CI/CD pipelines and containerized workloads with Docker, Kubernetes, and Jenkins; automation in Python.
