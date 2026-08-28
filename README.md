@@ -168,11 +168,9 @@ Every skill listed on this profile is backed by a certificate, a documented lab,
 
 I am open to:
 
-- SOC Analyst / Security Analyst opportunities
+- SOC Analyst / Penetration Testing opportunities
 - Bug bounty collaboration
-- Open-source security tooling
-- Detection engineering
-- Invitation to Bug Bounty Private Programs
+- Vulnerability Assessment
 
 Feel free to reach out through [LinkedIn](https://linkedin.com/in/tomasda7) or [email](mailto:tomasda7@outlook.com).
 
