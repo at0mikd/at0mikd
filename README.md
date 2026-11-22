@@ -2,9 +2,8 @@
 
 **Security Researcher · SecOps · AppSec**
 
-👤 [LinkedIn](https://linkedin.com/in/tomasda7)
-🐛 [Bugcrowd](https://bugcrowd.com/h/at0mik)
-📍 Argentina
+ [Bugcrowd](https://bugcrowd.com/h/at0mik)
+ 
 
 Feel free to reach out through [LinkedIn](https://linkedin.com/in/tomasda7) or [email](mailto:tomasda7@outlook.com).
 
